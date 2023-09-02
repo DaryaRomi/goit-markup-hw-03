@@ -1,8 +1,10 @@
+/* ---body---*/
 body{
     font-family: "Roboto", sans-serif;
     font-family: "Raleway", sans-serif;
     color: #FFFFFF;
 }
+/* ---header---*/
 .header_logo{
 font-family: 'Raleway';
 font-style: normal;
@@ -101,6 +103,7 @@ color: #2E2F42;
     text-transform: capitalize;
     color: #2E2F42; 
 }
+/* ---footer---*/
 .footer{
     position: absolute;
     width: 1440px;
