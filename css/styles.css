@@ -4,6 +4,9 @@ body{
     background-color: #FFFFFF;
     color: #434455;
 }
+
+/* ---header---*/
+
 .header{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -53,6 +56,9 @@ body{
 .one:focus{
     color: #404bbf;
 }
+
+/* ---sectionFirst---*/
+
 .section-first{
     background-color: #2e2f42;
 }
@@ -81,6 +87,9 @@ body{
     background-color: #404BBF;
 }
 
+
+/* ---sectionB---*/
+
 .sectionb{
     font-weight: 500;
     font-size: 20px;
@@ -101,6 +110,9 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
+/* ---sectionC---*/
 
 .sectionc{
     background-color: #F4F4FD
@@ -129,6 +141,10 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
+/* ---sectionD---*/
+
 .sectiond{
     font-family: 'Roboto';
     font-style: normal;
@@ -165,7 +181,10 @@ body{
 .sectiond-main{
     color: #F4F4FD
 }
+
+
 /* ---footer---*/
+
 .footer{
     background-color: #2E2F42;
 }
