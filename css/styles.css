@@ -4,8 +4,26 @@ body{
     background-color: #FFFFFF;
     color: #434455;
 }
-.conteiner{
+.header_container{
     display: flex;
+}
+.plus_container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+.nav_container{
+    display: flex;
+    align-items: center;
+}
+.headerlist{
+    display: flex;
+    gap: 40px;
+
+}
+.menu{
+    padding: 24px 0;
 }
 .header{
     font-family: 'Raleway', sans-serif;
@@ -26,6 +44,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
 }
 .studio{
     font-weight: 500;
