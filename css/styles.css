@@ -174,7 +174,7 @@ body{
 
 }
 .container{
-    padding-top: 100px;
+    padding-top: 100 0;
     display: inline-block;
     margin-bottom: 16px;
 
