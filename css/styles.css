@@ -269,11 +269,7 @@ body{
 
 .footer{
     background-color: #2E2F42;
-    display: inline-block;
-}
-.container{
-    padding-top: 100 0;
-    margin-bottom: 16px;
+    padding: 100px 0;
 }
 .footer_text{
     max-width: 264px;
@@ -287,6 +283,8 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .span-class{
     color: #f4f4fd;
