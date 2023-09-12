@@ -138,6 +138,7 @@ body{
     padding-left: 0;
 }
 .sectionb-list{
+    padding-left: 0;
     width calc((100% - 3 * 24px) / 4);
 }
 .sectionb-header{
