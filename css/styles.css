@@ -171,6 +171,17 @@ body{
 }
 .footer{
     background-color: #2E2F42;
+
+}
+.container{
+    padding-top: 100px;
+    display: inline-block;
+    margin-bottom: 16px;
+
+}
+.footer_text{
+    max-width: 264px;
+
 }
 .footer_logo{
     font-family: 'Raleway', sans-serif;
