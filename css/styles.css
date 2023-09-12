@@ -1,11 +1,11 @@
-.conteiner{
-    display: flex;
-}
 body{
     font-family: "Roboto", sans-serif;
     font-style: normal;
     background-color: #FFFFFF;
     color: #434455;
+}
+.conteiner{
+    display: flex;
 }
 .header{
     font-family: 'Raleway', sans-serif;
