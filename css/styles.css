@@ -37,7 +37,7 @@ body{
     color: #4d5ae5;
     margin-right: 76px;
 }
-.headerlist{
+.list_adress{
     display: flex;
     gap: 40px;
 }
