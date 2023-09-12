@@ -132,6 +132,14 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
+    padding: 120px 0;
+}
+.list_container{
+    display: flex;
+    gap: 24px;
+}
+.sectionb-list{
+    width: calc((100% - 72px) / 4);
 }
 .sectionb-header{
     font-weight: 500;
@@ -139,6 +147,7 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
+    margin-bottom: 8px;
 }
 .sectionb-text{
     font-size: 16px;
