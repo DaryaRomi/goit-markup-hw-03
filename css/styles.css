@@ -195,6 +195,7 @@ body{
     display: flex;
     gap: 24px;
     padding-left: 0;
+    display: block;
 }
 .sectionc-background{
     background-color: #FFFFFF;
@@ -219,9 +220,6 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
-}
-.img_container{
-    display: block;
 }
 
 
@@ -255,6 +253,7 @@ body{
     column-gap: 24px;
     row-gap: 48px;
     padding-left: 0;
+    display: block;
 }
 .sectiond-p{
     font-weight: 500;
@@ -279,9 +278,6 @@ body{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-}
-.img_container{
-    display: block;
 }
 
 
