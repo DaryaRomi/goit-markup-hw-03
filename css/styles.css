@@ -49,7 +49,7 @@ body{
     gap: 40px;
 }
 .menu{
-    padding: 24px 0;
+    padding: 24px 0 24px;
 }
 .studio{
     font-weight: 500;
