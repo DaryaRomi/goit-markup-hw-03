@@ -47,7 +47,8 @@ body{
     padding-left: 0;
 }
 .menu{
-    padding: 24px 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .list_adress{
     display: flex;
