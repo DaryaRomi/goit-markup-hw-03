@@ -41,7 +41,8 @@ body{
 .headerlist{
     display: flex;
     gap: 40px;
-
+    margin: 0;
+    padding-left: 0;
 }
 .list_adress{
     display: flex;
