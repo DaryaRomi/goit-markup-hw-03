@@ -142,8 +142,6 @@ body{
 .list_container{
     display: flex;
     gap: 24px;
-    padding-left: 0;
-    width: calc((100% - 3 * 24px) / 4);
 }
 .sectionb-header{
     font-weight: 500;
@@ -171,7 +169,10 @@ body{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
+.sectionb-list{
+    padding-left: 0;
+    width: calc((100% - 3 * 24px) / 4);
+}
 
 
 .sectionc{
