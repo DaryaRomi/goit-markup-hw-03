@@ -47,6 +47,9 @@ body{
     padding-left: 0;
     padding: 24px 0;
 }
+.menu{
+    padding: 24px 0;
+}
 .list_adress{
     display: flex;
     gap: 40px;
