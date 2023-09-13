@@ -219,6 +219,9 @@ body{
     color: #434455;
     text-align: center;
 }
+.img_container{
+    display: block;
+}
 
 
 
@@ -275,6 +278,9 @@ body{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+}
+.img_container{
+    display: block;
 }
 
 
