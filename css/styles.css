@@ -140,6 +140,8 @@ body{
     padding: 120px 0;
 }
 .list_container{
+    margin: 0; 
+    padding-left: 0;
     display: flex;
     gap: 24px;
 }
