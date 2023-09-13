@@ -19,6 +19,11 @@ body{
     margin: 0 auto;
     padding: 0 15px;
 }
+.additional{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
 .nav_header{
     display: flex;
     align-items: center;
